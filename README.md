@@ -6,12 +6,6 @@ This is an updated version of our previous [tutorial](https://github.com/psotoar
 ## Local installation 
 This tutorial will be based on [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/index.html#) for building the NDT - GNN which depends on [PyTorch](https://pytorch.org/). Additionally, we will build the NDT - ML using tensorflow and scikit-learn. Moreover, jupyter is needed to be able to run the notebooks. Therefore, we recommend that you install a virtual environment to avoid issues among dependencies. For example, to build this tutorial, we used a virtual environment created with conda using the following commands. Please, follow the steps in the order described here. 
 
-```
-conda env create -f environment.yml
-```
-
-or
-
 ```conda create -n ndt-tutorial-latincom python==3.10```
 
 ```conda activate ndt-tutorial-latincom```
