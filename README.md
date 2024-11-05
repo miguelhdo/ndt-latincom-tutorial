@@ -12,7 +12,7 @@ This tutorial will be based on [PyTorch Geometric](https://pytorch-geometric.rea
 
 ```conda install -c conda-forge scikit-learn  jupyterlab matplotlib```
 
-```conda install tensorflow pandas gdown```
+```conda install tensorflow==2.12 pandas gdown```
 
 ```conda install pytorch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 -c pytorch```
 
